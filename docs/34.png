@@ -1,0 +1,47 @@
+p.a{
+	color:white;
+	width:80%;
+	padding-left:10%;
+	padding-right:10%;
+
+	}
+.p{
+	position: absolute;
+	top: 40px;
+    left: 42%;
+}
+.p img{
+	position: absolute;
+	width: 100px;
+}
+.i{
+position: absolute;
+	width: 80px;
+	height: 80px;
+	top: 400px;
+	right: 10%;
+}
+.i img{
+	position:absolute;
+	width: 80px;
+	height: 80px;
+}
+.o{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 10%;
+	top: 400px;
+}
+.o img{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+}
+.hh{
+	position: absolute;
+	top: 0px;
+}
+.hh img{
+	width: 40px;
+}
